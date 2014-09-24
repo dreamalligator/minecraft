@@ -1,3 +1,6 @@
 [submodule "bravo"]
 	path = bravo
 	url = https://github.com/bravoserver/bravo.git
+[submodule "kingdomplantar"]
+	path = kingdomplantar
+	url = https://github.com/digitalvapor/kingdomplantar.git
