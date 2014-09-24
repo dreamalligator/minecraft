@@ -1,0 +1,11 @@
+minecraft_server.jar
+eula.txt
+*_old
+*_backup
+nohup.out
+whitelist.json
+usercache.json
+banned-ips.json
+banned-players.json
+ops.json
+logs/*
